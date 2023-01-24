@@ -1,2 +1,3 @@
 ### SQL_homework_batch6
-link: https://replit.com/@ThamonwanNuchti/SQLhomeworkbatch6?v=1
+**Descrition:** make dataset of thai restaurant
+<br>**Link:** https://replit.com/@ThamonwanNuchti/SQLhomeworkbatch6?v=1
