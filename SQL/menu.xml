@@ -1,0 +1,27 @@
+<menu>
+	<food>
+		<name>hotdog</name>
+		<price>25</price>
+		<calorie>250</calorie>
+	</food>
+	<food>
+		<name>boiled rice</name>
+		<price>36</price>
+		<calorie>180</calorie>
+	</food>
+	<food>
+		<name>fried egg</name>
+		<price>12</price>
+		<calorie>220</calorie>
+	</food>
+	<food>
+		<name>pizza</name>
+		<price>48</price>
+		<calorie>490</calorie>
+	</food>
+	<food>
+		<name>french fried</name>
+		<price>19</price>
+		<calorie>580</calorie>
+	</food>
+</menu>
