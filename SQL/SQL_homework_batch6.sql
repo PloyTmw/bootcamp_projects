@@ -1,4 +1,4 @@
--- Restaurant Owners
+-- Thai Restaurant Owners
 -- 5 Tables
 -- 1x Fact, 4x Dimension
 -- search google, how to add foreign key
