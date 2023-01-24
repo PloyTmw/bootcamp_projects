@@ -12,7 +12,7 @@ Data science bootcamp with `adToy`
   <li>
   <p>Link:
   <a href="https://replit.com/@ThamonwanNuchti/SQLhomeworkbatch6?v=1#main.sql">
-    www.replid.com
+    SQL_homework_batch6
   </a>
   </p>
   </li>
@@ -27,7 +27,7 @@ Data science bootcamp with `adToy`
   <li>
   <p>Link:
   <a href="https://datalore.jetbrains.com/notebook/Ud7EvYlFbhh1rPIVYSgD7Z/YmrL0lHl3h62UJuyuvOVeH/">
-    www.datalore.jetbrains.com
+    HW_Nycflights2013_Analysis
   </a>
   </p>
   </li>
