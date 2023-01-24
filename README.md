@@ -20,7 +20,20 @@ Data science bootcamp with `adToy`
 </div>
 
 ### R Programing
-### Data Transformation
+
+<h3>Data Transformation</h3>
+<div>
+<ul>
+  <li>
+  <p>Link:
+  <a href="https://datalore.jetbrains.com/notebook/Ud7EvYlFbhh1rPIVYSgD7Z/YmrL0lHl3h62UJuyuvOVeH/">
+    www.datalore.jetbrains.com
+  </a>
+  </p>
+  </li>
+<ul>
+</div>
+
 ### Data Visualization
 ### Statistics
 ### Intro to `Classical` Maching Learning
