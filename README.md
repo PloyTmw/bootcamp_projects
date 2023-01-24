@@ -34,7 +34,20 @@ Data science bootcamp with `adToy`
 <ul>
 </div>
 
-### Data Visualization
+<h3>Data Visualization</h3>
+<div>
+<ul>
+  <li>
+  <p>Link:
+  <a href="https://github.com/PloyTmw/bootcamp_projects/blob/main/Data_Visualization/HW_DataVis_Nycflights2013.pdf">
+    HW_DataVis_Nycflights2013
+  </a>
+  </p>
+  </li>
+<ul>
+</div>
+
+
 ### Statistics
 ### Intro to `Classical` Maching Learning
 ### Intro to Python
