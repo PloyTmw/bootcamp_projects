@@ -57,7 +57,7 @@ Data science bootcamp with `adToy`
 <div>
 <ul>
   <li>
-  <p>Link:
+  <p>Link:Looker Studio
   <a href="https://lookerstudio.google.com/s/kIpI2CAqrlQ">
     HW_Sprint10Dashboard_Unicorn2023_Bacth6
   </p>
