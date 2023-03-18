@@ -52,4 +52,15 @@ Data science bootcamp with `adToy`
 ### Intro to `Classical` Maching Learning
 ### Intro to Python
 ### Essential Python for Data Analyst
-### Dashboard
+
+<h3>Dashboard</h3>
+<div>
+<ul>
+  <li>
+  <p>Link:
+  <a href="https://lookerstudio.google.com/s/kIpI2CAqrlQ">
+    HW_Sprint10Dashboard_Unicorn2023_Bacth6
+  </p>
+  </li>
+<ul>
+</div>
