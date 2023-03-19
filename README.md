@@ -72,7 +72,7 @@ Data science bootcamp with `adToy`
   Certified Professional Data Analyst
   </p>
   <p>
-    <img="https://api.badgr.io/public/assertions/ygPtsH5TTTGwZ1D0xmU-zw/image">
+    <img src="https://api.badgr.io/public/assertions/ygPtsH5TTTGwZ1D0xmU-zw/image">
   </p>
 </h2>
 </div>
