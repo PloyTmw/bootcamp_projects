@@ -55,16 +55,16 @@ Data science bootcamp with `adToy`
 
 <h3>Dashboard</h3>
 <div>
-<ol>
+<ul>
   <li>
   <p>Looker Studio
   <a href="https://lookerstudio.google.com/s/kIpI2CAqrlQ">
     HW_Sprint10Dashboard_Unicorn2023_Batch6
   </p>
   </li>
-<ol>
+<ul>
 </div>
 
 <div>
-
+Badge
 </div>
