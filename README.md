@@ -4,12 +4,12 @@ Data science bootcamp with `adToy`
 
 <h2>We learn 10 sprints during 4 month program.</h2>
 
-<h3>Speadsheets</h3>
+<h3>Spreadsheets</h3>
 <div>
 <ul>
   <li>
   <p>Link:
-  <a href="https://github.com/PloyTmw/bootcamp_projects/blob/main/Spreadsheet/HW_Spreadsheet_Convert%20TH%20to%20EN%20Date.png"></a>
+  <a href="https://github.com/PloyTmw/bootcamp_projects/tree/main/Spreadsheet"></a>
   <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BFwsSeCVATvKL3DHE%2BHJ28w%3D%3D"></a>
   </p>
   </li>
@@ -24,18 +24,6 @@ Data science bootcamp with `adToy`
   <a href="https://replit.com/@ThamonwanNuchti/SQLhomeworkbatch6?v=1#main.sql">
     SQL_homework_batch6
   </a>
-  </p>
-  </li>
-<ul>
-</div>
-  
-<h3>Speadsheets</h3>
-<div>
-<ul>
-  <li>
-  <p>Link:
-  <a href="https://github.com/PloyTmw/bootcamp_projects/blob/main/Spreadsheet/HW_Spreadsheet_Convert%20TH%20to%20EN%20Date.png"></a>
-  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BFwsSeCVATvKL3DHE%2BHJ28w%3D%3D"></a>
   </p>
   </li>
 <ul>
