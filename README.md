@@ -79,6 +79,6 @@ Data science bootcamp with `adToy`
   </p>
 </h2>
 <h4>
-  Description : Data Science Bootcamp 6
+  Description : Data Science Bootcamp 6 | DataRockie
 </h4>
 </div>
