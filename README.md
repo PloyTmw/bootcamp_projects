@@ -13,8 +13,9 @@ Data science bootcamp with `adToy`
     </a>
   </p>
   </li>
-</ul>
+<ul>
 </div>
+
 <h3>SQL Database</h3>
 <div>
 <ul>
