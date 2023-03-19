@@ -9,8 +9,6 @@ Data science bootcamp with `adToy`
 <ul>
   <li>
   <p>Link:
-  <a href="https://github.com/PloyTmw/bootcamp_projects/tree/main/Spreadsheet"></a>
-  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BFwsSeCVATvKL3DHE%2BHJ28w%3D%3D"></a>
   </p>
   </li>
 <ul>
@@ -24,7 +22,6 @@ Data science bootcamp with `adToy`
   <a href="https://replit.com/@ThamonwanNuchti/SQLhomeworkbatch6?v=1#main.sql">
     SQL_homework_batch6
   </a>
-  <a href="https://github.com/PloyTmw/bootcamp_projects/tree/main/Spreadsheet"></a>
   </p>
   </li>
 <ul>
