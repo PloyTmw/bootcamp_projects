@@ -68,7 +68,7 @@ Data science bootcamp with `adToy`
 <div>
 <h2>
   <p>
-    <img width="30" src="https://cdn-icons-png.flaticon.com/512/7626/7626666.png">
+    <img width="30" src="https://cdn-icons-png.flaticon.com/512/2454/2454229.png">
     <img width="30" src="https://cdn-icons-png.flaticon.com/512/1961/1961418.png">
     Badge
     <a href="https://badgr.com/public/assertions/ygPtsH5TTTGwZ1D0xmU-zw">
