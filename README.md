@@ -1,6 +1,6 @@
 <h1>Bootcamp Projects</h1>
 
-<h4>Data science bootcamp with `adToy`</h4>
+Data science bootcamp with `adToy`
 
 <h2>We learn 10 sprints during 4 month program.</h2>
 
