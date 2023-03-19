@@ -24,6 +24,7 @@ Data science bootcamp with `adToy`
   <a href="https://replit.com/@ThamonwanNuchti/SQLhomeworkbatch6?v=1#main.sql">
     SQL_homework_batch6
   </a>
+  <a href="https://github.com/PloyTmw/bootcamp_projects/tree/main/Spreadsheet"></a>
   </p>
   </li>
 <ul>
