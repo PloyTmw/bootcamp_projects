@@ -67,7 +67,9 @@ Data science bootcamp with `adToy`
 
 <div>
 <h2>
-  <p>Badge
+  <p>
+    <img src="https://cdn-icons-png.flaticon.com/512/3004/3004584.png">
+    Badge
     <a href="https://badgr.com/public/assertions/ygPtsH5TTTGwZ1D0xmU-zw">
   Certified Professional Data Analyst
   </p>
