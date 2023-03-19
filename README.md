@@ -66,5 +66,5 @@ Data science bootcamp with `adToy`
 </div>
 
 <div>
-Badge
+<p>Badge</p>
 </div>
