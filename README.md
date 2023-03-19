@@ -78,4 +78,7 @@ Data science bootcamp with `adToy`
     <img src="https://api.badgr.io/public/assertions/ygPtsH5TTTGwZ1D0xmU-zw/image">
   </p>
 </h2>
+<h4>
+  Description : Data Science Bootcamp 6
+</h4>
 </div>
