@@ -68,7 +68,19 @@ Data science bootcamp with `adToy`
 
 ### Statistics
 ### Intro to `Classical` Maching Learning
-### Intro to Python
+<h3>Intro to Python</h3>
+<div>
+<ul>
+  <li>
+  <p>Link:
+  <a href="https://replit.com/@ThamonwanNuchti/H1H2#main.py">
+    HW_Rock_Paper_Scissors_batch6
+  </a>
+  </p>
+  </li>
+<ul>
+</div>
+
 ### Essential Python for Data Analyst
 
 <h3>Dashboard</h3>
