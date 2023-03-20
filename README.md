@@ -74,7 +74,7 @@ Data science bootcamp with `adToy`
   <li>
   <p>Link:
   <a href="https://replit.com/@ThamonwanNuchti/H1H2#main.py">
-    HW_Rock_Paper_Scissors_batch6
+    HW_Rock_Paper_Scissors_Batch6
   </a>
   </p>
   </li>
