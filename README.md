@@ -78,6 +78,13 @@ Data science bootcamp with `adToy`
   </a>
   </p>
   </li>
+  <li>
+  <p>Link:
+  <a href="https://replit.com/@ThamonwanNuchti/HWATMBatch6#main.py">
+    HW_ATM_Batch6
+  </a>
+  </p>
+  </li>
 <ul>
 </div>
 
